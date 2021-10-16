@@ -52,3 +52,7 @@ C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdult
 C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdultList\MyAdultList\obj\Debug\net5.0\MyAdultList.pdb
 C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdultList\MyAdultList\obj\Debug\net5.0\MyAdultList.genruntimeconfig.cache
 C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdultList\MyAdultList\obj\Debug\net5.0\MyAdultList.csproj.CopyComplete
+C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdultList\MyAdultList\bin\Debug\net5.0\Data\Files\adults.json
+C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdultList\MyAdultList\bin\Debug\net5.0\Data\Files\Users.json
+C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdultList\MyAdultList\obj\Debug\net5.0\RazorDeclaration\Pages\AdultList.razor.g.cs
+C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdultList\MyAdultList\obj\Debug\net5.0\Razor\Pages\AdultList.razor.g.cs

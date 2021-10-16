@@ -82,6 +82,13 @@ using MyAdultList.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 1 "C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdultList\MyAdultList\Shared\NavMenu.razor"
+using MyAdultList.Pages;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -90,7 +97,7 @@ using MyAdultList.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 18 "C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdultList\MyAdultList\Shared\NavMenu.razor"
+#line 24 "C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdultList\MyAdultList\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

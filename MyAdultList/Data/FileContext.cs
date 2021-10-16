@@ -12,7 +12,7 @@ namespace MyAdultList.Data
         public IList<Adult> Adults { get; private set; }
 
         
-        private readonly string adultsFile = "adults.json";
+        private readonly string adultsFile = "Data/Files/adults.json";
 
         public FileContext()
         {
