@@ -1,0 +1,36 @@
+@page "/AdultList"
+@using MyAdultList.Data
+@inject IFileReader fileReader
+@inject NavigationManager NavMgr
+<h3>AdultList</h3>
+<p>
+    Filter by first name: <input type="text" @oninput="@((arg) => FindByName(arg))" style="width:50px"/>
+</p>
+@if (adultsToShow == null)
+{
+    <p>no adult found</p>
+}
+else
+{
+    <table class="table">
+        <thead class="table-primary">
+        <tr>
+            <th>Id</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Sex</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in adultsToShow)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>@item.Sex</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
