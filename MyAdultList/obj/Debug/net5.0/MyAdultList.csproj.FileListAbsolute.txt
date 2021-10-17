@@ -56,3 +56,5 @@ C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdult
 C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdultList\MyAdultList\bin\Debug\net5.0\Data\Files\Users.json
 C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdultList\MyAdultList\obj\Debug\net5.0\RazorDeclaration\Pages\AdultList.razor.g.cs
 C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdultList\MyAdultList\obj\Debug\net5.0\Razor\Pages\AdultList.razor.g.cs
+C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdultList\MyAdultList\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\hanch\OneDrive\Skola\semester3\DNP1\DNP1 programs\MyOwn\HandIn1\MyAdultList\MyAdultList\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs
